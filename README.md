@@ -7,7 +7,7 @@
 
 ## 👍읽어주세요
 github에는 코드만 저장되어있고 각 프로그램의 설명 및 실행결과는 블로그에 정리하였습니다.<br>
-master branch로 가서 src/project 폴더에서 코드를 볼 수 있. 
+master branch로 가서 src/project 폴더에서 코드를 볼 수 있습니다. 
 
 
 ## 👀블로그 주소
